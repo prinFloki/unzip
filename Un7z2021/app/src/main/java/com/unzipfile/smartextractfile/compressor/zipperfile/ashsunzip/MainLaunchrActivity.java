@@ -1,4 +1,4 @@
-package com.unzipfile.smartextractfile.compressor.zipperfile.ashsunzip;
+package com.unziptool.exctract.compress.allfiles.ashsunzip;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -32,7 +32,7 @@ import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.interstitial.InterstitialAd;
 import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
 import com.google.android.material.navigation.NavigationView;
-import com.unzipfile.smartextractfile.compressor.zipperfile.R;
+import com.unziptool.exctract.compress.allfiles.R;
 import java.util.Locale;
 import java.util.Random;
 

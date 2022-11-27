@@ -1,4 +1,4 @@
-package com.compressor.extractor.zipers.fileAdaptersForWork;
+package com.compressor.extractor.compress.fileAdaptersForWork;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -14,9 +14,9 @@ import android.widget.TextView;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
-import com.compressor.extractor.zipers.fileWork.FileRelatedInformation;
-import com.unzipfile.smartextractfile.compressor.zipperfile.R;
-import com.unzipfile.smartextractfile.compressor.zipperfile.ashsunzip.SaveFileActivity;
+import com.compressor.extractor.compress.fileWork.FileRelatedInformation;
+import com.unziptool.exctract.compress.allfiles.R;
+import com.unziptool.exctract.compress.allfiles.ashsunzip.SaveFileActivity;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;

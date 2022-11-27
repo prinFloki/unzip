@@ -1,4 +1,4 @@
-package com.compressor.extractor.zipers.fileWork;
+package com.compressor.extractor.compress.fileWork;
 
 public enum FileType {
     folderEmpty,

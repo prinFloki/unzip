@@ -1,7 +1,7 @@
-package com.compressor.extractor.zipers.utilitesWorkFile;
+package com.compressor.extractor.compress.utilitesWorkFile;
 
-import com.compressor.extractor.zipers.fileWork.FileType;
-import com.compressor.extractor.zipers.fileWork.FileRelatedInformation;
+import com.compressor.extractor.compress.fileWork.FileType;
+import com.compressor.extractor.compress.fileWork.FileRelatedInformation;
 
 import java.io.File;
 import java.text.DateFormat;

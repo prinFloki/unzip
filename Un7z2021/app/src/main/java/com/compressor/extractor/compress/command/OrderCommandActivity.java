@@ -1,4 +1,4 @@
-package com.compressor.extractor.zipers.command;
+package com.compress.extract.zip.tool;
 
 public class OrderCommandActivity {
     public static String getExtractCmd(String str, String str2) {

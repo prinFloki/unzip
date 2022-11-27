@@ -1,4 +1,4 @@
-package com.unzipfile.smartextractfile.compressor.zipperfile;
+package com.unziptool.exctract.compress.allfiles;
 
 import org.junit.Test;
 

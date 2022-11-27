@@ -1,4 +1,4 @@
-package com.unzipfile.smartextractfile.compressor.zipperfile.ashsunzip;
+package com.unziptool.exctract.compress.allfiles.ashsunzip;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog.Builder;
@@ -40,18 +40,18 @@ import com.anjlab.android.iab.v3.BillingProcessor.IBillingHandler;
 import com.anjlab.android.iab.v3.TransactionDetails;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.RequestBuilder;
-import com.compressor.extractor.zipers.fileAdaptersForWork.FileAdapterItemsOneLiner;
-import com.compressor.extractor.zipers.fileAdaptersForWork.ItemAdapterPath;
-import com.compressor.extractor.zipers.fileWork.FileRelatedInformation;
-import com.compressor.extractor.zipers.utilitesWorkFile.UtilitiesFileWorker;
-import com.compressor.extractor.zipers.command.OrderCommandActivity;
-import com.compressor.extractor.zipers.compression.GzipAsynkPerform;
-import com.compressor.extractor.zipers.compression.TarGzAsynkPerform;
-import com.compressor.extractor.zipers.compression.ZipAsynkPerform;
+import com.compressor.extractor.compress.fileAdaptersForWork.FileAdapterItemsOneLiner;
+import com.compressor.extractor.compress.fileAdaptersForWork.ItemAdapterPath;
+import com.compressor.extractor.compress.fileWork.FileRelatedInformation;
+import com.compressor.extractor.compress.utilitesWorkFile.UtilitiesFileWorker;
+import com.compress.extract.zip.tool.OrderCommandActivity;
+import com.compressor.extractor.compress.compression.GzipAsynkPerform;
+import com.compressor.extractor.compress.compression.TarGzAsynkPerform;
+import com.compressor.extractor.compress.compression.ZipAsynkPerform;
 import com.github.clans.fab.FloatingActionButton;
 import com.github.clans.fab.FloatingActionMenu;
 import com.hzy.libp7zip.P7ZipApi;
-import com.unzipfile.smartextractfile.compressor.zipperfile.R;
+import com.unziptool.exctract.compress.allfiles.R;
 
 import net.lingala.zip4j.util.InternalZipConstants;
 

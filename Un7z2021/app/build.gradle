@@ -4,7 +4,7 @@ android {
     compileSdkVersion 32
 
     defaultConfig {
-        applicationId "com.unzipfile.smartextractfile.compressor.zipperfile"
+        applicationId "com.unziptool.exctract.compress.allfiles"
         minSdkVersion 21
         targetSdkVersion 32
         versionCode 1

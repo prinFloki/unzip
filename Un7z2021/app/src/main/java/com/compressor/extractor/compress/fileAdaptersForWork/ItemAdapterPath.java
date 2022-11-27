@@ -1,4 +1,4 @@
-package com.compressor.extractor.zipers.fileAdaptersForWork;
+package com.compressor.extractor.compress.fileAdaptersForWork;
 
 import android.app.Activity;
 import android.view.LayoutInflater;
@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 import androidx.recyclerview.widget.RecyclerView;
-import com.unzipfile.smartextractfile.compressor.zipperfile.R;
+import com.unziptool.exctract.compress.allfiles.R;
 import java.io.File;
 
 public class ItemAdapterPath extends RecyclerView.Adapter<ItemAdapterPath.ViewHolder> {

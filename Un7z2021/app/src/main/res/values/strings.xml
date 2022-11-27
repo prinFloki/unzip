@@ -206,8 +206,8 @@
 
 
     <!--ads-->
-    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
-    <string name="admob_banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="admob_interstitial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-5452757586181695~6287238063</string>
+    <string name="admob_banner" translatable="false">ca-app-pub-5452757586181695/5368359327</string>
+    <string name="admob_interstitial" translatable="false">ca-app-pub-5452757586181695/4688560837</string>
 
 </resources>

@@ -1,4 +1,4 @@
-package com.unzipfile.smartextractfile.compressor.zipperfile.ashsunzip;
+package com.unziptool.exctract.compress.allfiles.ashsunzip;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -8,7 +8,7 @@ import android.os.Handler;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.unzipfile.smartextractfile.compressor.zipperfile.R;
+import com.unziptool.exctract.compress.allfiles.R;
 
 import java.util.Locale;
 

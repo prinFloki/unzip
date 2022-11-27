@@ -1,4 +1,4 @@
-package com.unzipfile.smartextractfile.compressor.zipperfile;
+package com.unziptool.exctract.compress.allfiles;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.unzipfile.smartextractfile.compressor.zipperfile", appContext.getPackageName());
+        assertEquals("com.unziptool.exctract.compress.allfiles", appContext.getPackageName());
     }
 }

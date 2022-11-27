@@ -1,11 +1,11 @@
-package com.unzipfile.smartextractfile.compressor.zipperfile;
+package com.unziptool.exctract.compress.allfiles;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
-import com.unzipfile.smartextractfile.compressor.zipperfile.ashsunzip.MainLaunchrActivity;
+import com.unziptool.exctract.compress.allfiles.ashsunzip.MainLaunchrActivity;
 
 public class SplashActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {

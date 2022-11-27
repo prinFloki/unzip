@@ -1,4 +1,4 @@
-package com.unzipfile.smartextractfile.compressor.zipperfile.ashsunzip;
+package com.unziptool.exctract.compress.allfiles.ashsunzip;
 
 import android.annotation.SuppressLint;
 import android.content.DialogInterface;
@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 import com.blankj.utilcode.constant.MemoryConstants;
-import com.unzipfile.smartextractfile.compressor.zipperfile.R;
+import com.unziptool.exctract.compress.allfiles.R;
 
 
 public abstract class MarshmallowSupportActivity extends AppCompatActivity {

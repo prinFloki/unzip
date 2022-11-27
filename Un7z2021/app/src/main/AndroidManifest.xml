@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.unzipfile.smartextractfile.compressor.zipperfile">
+    package="com.unziptool.exctract.compress.allfiles">
 
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
@@ -77,7 +77,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.unzipfile.smartextractfile.compressor.zipperfile.provider"
+            android:authorities="com.unziptool.exctract.compress.allfiles.provider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data

@@ -1,4 +1,4 @@
-package com.compressor.extractor.zipers.compression;
+package com.compressor.extractor.compress.compression;
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -8,8 +8,8 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.AsyncTask;
 import com.blankj.utilcode.util.ActivityUtils;
-import com.unzipfile.smartextractfile.compressor.zipperfile.R;
-import com.unzipfile.smartextractfile.compressor.zipperfile.ashsunzip.AllInOneCompress;
+import com.unziptool.exctract.compress.allfiles.R;
+import com.unziptool.exctract.compress.allfiles.ashsunzip.AllInOneCompress;
 
 import java.io.BufferedInputStream;
 import java.io.File;
